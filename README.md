@@ -6,6 +6,7 @@
 <div>
   <a href="https://github.com/fernandaferrazprog">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=fernandaferrazprog&show_icons=true&theme=synthwave">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaferrazprog&layout=compact&theme=synthwave">
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
