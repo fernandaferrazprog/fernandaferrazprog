@@ -3,11 +3,6 @@
 - 🔭 Atualmente estou em transição de carreira
 - 📖 Estudando Python
 
-<div>
-  <a href="https://github.com/fernandamferraz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fernandamferraz&show_icons=true&theme=dark">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandamferraz&layout=compact&theme=dark">
-</div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
