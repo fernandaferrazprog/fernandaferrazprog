@@ -1,4 +1,4 @@
-## Olá, eu sou a Fernanda Ferraz, estudante de programação e tecnologia!
+## Olá, eu sou a Fernanda Ferraz!
 
 - 🔭 Atualmente estou em transição de carreira
 - 📖 Estudando Python
