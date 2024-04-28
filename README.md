@@ -1,4 +1,4 @@
-## Olá! Meu nome é Fernanda Martins, sou desenvolvedora front-end e entusiasta full stack.
+## Olá! Meu nome é Fernanda Martins, sou desenvolvedora front-end 
 
  📖 Atualmente estou estudando Python
 
