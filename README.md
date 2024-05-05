@@ -31,7 +31,7 @@
 
 
 <hr>
-<h2 align="center"> Linguagens & Frameworks & Ferramentas & Habilidades </h2>
+<h2 align="center"> Linguagens & Frameworks & Ferramentas </h2>
 <br>
 <p align="center">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
