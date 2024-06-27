@@ -18,7 +18,7 @@
   Oi, eu sou a Fernanda Martins, desenvolvedora front-end
   <br>
   <br>
-  🔬 Atualmente estou estudanto análise e desenvolvimento de sistemas na Universidade Católica de Brasília 
+  🔬 Atualmente estou estudando análise e desenvolvimento de sistemas na Universidade Católica de Brasília 
   <br>
   🎓 Estou cursando Desenvolvimento Full Stack Python na EBAC 
   <br>
@@ -26,7 +26,7 @@
   <br>
   📚 Estou aprendendo front-end
   <br>
-  📫 como entrar em contato comigo: <a href="mailto: fernandaferrazdev@gmail.com">fernandaferrazdev@gmail.com</a>
+  📫 Como entrar em contato comigo: <a href="mailto: fernandaferrazdev@gmail.com">fernandaferrazdev@gmail.com</a>
 </p>
 
 
